@@ -7,7 +7,8 @@ export default {
   namespace: 'app',
   state:
   {
-    loginLoading:false
+    loginLoading:false,
+    loginState:'',
   },
   subscriptions: {
     setup ({ dispatch }) {
