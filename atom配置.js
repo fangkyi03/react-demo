@@ -1,5 +1,6 @@
 
 boxShadow
+inline-flex
 accept acceptCharset accessKey action allowFullScreen allowTransparency alt
 async autoComplete autoFocus autoPlay capture cellPadding cellSpacing challenge
 charSet checked cite classID className colSpan cols content contentEditable
