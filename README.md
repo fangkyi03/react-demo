@@ -4,7 +4,7 @@
 > npm install
 
 运行
-> npm run start
+> npm run dev
 
 *启动以后就可以看到你的demo效果了
 
